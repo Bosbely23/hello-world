@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+hi humans!
+
+I am Bosbely, i like to play basketball and i want to learn how to program.
+
